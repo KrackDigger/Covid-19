@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Covid19</string>
+    <string name="data_txt">Данные на: </string>
+    <string name="space">&#160;</string>
+</resources>
