@@ -67,8 +67,6 @@ class MainActivity : AppCompatActivity() {
     private fun onCreateHtml() {
 
         binding.webView.loadUrl("https://yandex.ru/covid19/stat")
-//        val currentTime: Date = Calendar.getInstance().time
-//        binding.textView.text = currentTime.toString()
 
         var answer1 = ""
         var answer2 = ""
